@@ -9,12 +9,12 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandrovi/bethehero-omnistack?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandrovi/bethehero?color=%2304D361">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/leandrovi/bethehero-omnistack/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/leandrovi/bethehero-omnistack?style=social">
+  <a href="https://github.com/leandrovi/bethehero/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/leandrovi/bethehero?style=social">
   </a>
 </p>
 
