@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="GoStack" src="./.github/omnistack-logo-white.png" width="400px" />
+    <img alt="GoStack" src="./.github/logo.svg" width="400px" />
 </h3>
 
 <h1 align="center"></h1>
