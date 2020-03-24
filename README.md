@@ -30,7 +30,7 @@ Bem-vindos ao **Be The Hero**!
 
 Este projeto foi desenvolvido ao longo da **Semana OmniStack 11.0**, junto com o pessoal da [Rocketsheat](https://github.com/Rocketseat).
 
-O objetivo do projeto é permitir a busca por Ongs e suas necessidades, facilitando o contato para suprir as ajudas divulgadas. Para isso, o projeto está dividido em 3 partes:
+O objetivo do projeto é permitir a busca por Ongs e suas necessidades, facilitando o contato para suprir os Casos/Incidentes divulgados. Para isso, o projeto está dividido em 3 partes:
 
 - Back-end (REST API em Node.js)
 - Front-end (Interface Web em React)
@@ -47,6 +47,8 @@ O objetivo do projeto é permitir a busca por Ongs e suas necessidades, facilita
 - [Node.js](https://nodejs.org/en/)
 - [Express.js](https://expressjs.com/)
 - [Nodemon](https://nodemon.io/)
+- [Knex.js](http://knexjs.org/)
+- [Crypto](https://nodejs.org/api/crypto.html)
 
 ### Front-end
 
