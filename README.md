@@ -52,7 +52,10 @@ O objetivo do projeto é permitir a busca por Ongs e suas necessidades, facilita
 
 ### Front-end
 
-(Em construção.)
+- [ReactJS](https://reactjs.org/)
+- [React Router Dom](https://www.npmjs.com/package/react-router-dom)
+- [React Icons](https://react-icons.netlify.com/#/)
+- [Axios](https://github.com/axios/axios)
 
 ### Mobile
 
