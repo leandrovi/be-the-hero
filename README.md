@@ -37,9 +37,13 @@ O objetivo do projeto é permitir a busca por Ongs e suas necessidades, facilita
 - Front-end (Interface Web em React)
 - Mobile (App em React Native + Expo)
 
-### Aplicação online
+### Aplicação Web
 
-(Em construção.)
+![](./github/web.gif)
+
+### Aplicação Mobile
+
+![](./github/mobile.gif)
 
 ## :wrench: Stack e Tools
 
