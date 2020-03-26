@@ -19,7 +19,6 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
-    },
-    "androidStatusBar": "dark-content"
+    }
   }
 }
