@@ -39,11 +39,13 @@ O objetivo do projeto é permitir a busca por Ongs e suas necessidades, facilita
 
 ### Aplicação Web
 
-![](./github/web.gif)
+![web](.github/web.gif)
 
 ### Aplicação Mobile
 
-![](./github/mobile.gif)
+<p align="center">
+  <img alt="App Demo" src="./.github/mobile.gif" width="300px">
+</p>
 
 ## :wrench: Stack e Tools
 
