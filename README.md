@@ -1,6 +1,6 @@
 <h3 align="center">
     <img alt="GoStack" src="./.github/logo.svg" width="400px" />
-    <img alt="GoStack" src="./.github/logo.png" />
+    <img alt="GoStack" src="./.github/logo.png" width="200px" />
 </h3>
 
 <h1 align="center"></h1>
